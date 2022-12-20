@@ -1,0 +1,27 @@
+.search{
+  display: flex;
+  width: auto;
+  height: auto;
+  margin: 20px;
+}
+.search input {
+  justify-content: center;
+  align-items: center;
+  width: 1200px;
+  height: 40px;
+  font-size: 18px;
+  border: black solid 1px;
+  border-radius: 2px 0px 0px 2px; 
+  background-color: rgb(255, 255, 255);
+}
+
+.search-icon {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 40px;
+  border: black solid 1px;
+  background-color: red;
+}
+
